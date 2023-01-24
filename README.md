@@ -4,7 +4,7 @@
 
 # parsePhoneNumber
 
-A naive implementation of a phone number, just because I want to challenge myself on this.
+A naive implementation of a phone number, just because I wanted to challenge myself on this.
 
 ## Installation
 

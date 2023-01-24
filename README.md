@@ -1,5 +1,5 @@
-<a href="https://www.npmjs.com/package/@hunteroi/parsePhoneNumber">
-  <img src="https://badge.fury.io/js/%40hunteroi%2FparsePhoneNumber.svg" alt="npm version" height="18"/>
+<a href="https://www.npmjs.com/package/@hunteroi/parsephonenumber">
+  <img src="https://badge.fury.io/js/%40hunteroi%2Fparsephonenumber.svg" alt="npm version" height="18"/>
 </a>
 
 # parsePhoneNumber
@@ -9,7 +9,7 @@ A naive implementation of a phone number, just because I want to challenge mysel
 ## Installation
 
 ```sh
-npm install --save @hunteroi/parsePhoneNumber
+npm install --save @hunteroi/parsephonenumber
 ```
 
 ## Contribution

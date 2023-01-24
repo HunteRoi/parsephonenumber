@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1674580929809" clover="3.2.0">
-  <project timestamp="1674580929809" name="All files">
+<coverage generated="1674581944860" clover="3.2.0">
+  <project timestamp="1674581944860" name="All files">
     <metrics statements="36" coveredstatements="36" conditionals="10" coveredconditionals="10" methods="3" coveredmethods="3" elements="49" coveredelements="49" complexity="0" loc="36" ncloc="36" packages="1" files="4" classes="4"/>
     <file name="formatPhoneNumber.ts" path="H:\git\parsePhoneNumber\src\formatPhoneNumber.ts">
       <metrics statements="17" coveredstatements="17" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
